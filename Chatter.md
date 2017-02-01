@@ -19,7 +19,7 @@ Chatter is a reference application created to showcase [Oxford Dictionary API us
 - CocoaPods 1.2.0+
 
 ## Try it now
-You can download app from [Appstore](https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8)
+You can download app from [Appstore].(https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8)
 
 ## Installation
 
