@@ -1,5 +1,7 @@
 # Wordfinder
 
+![Wordfinder](https://cloud.githubusercontent.com/assets/16136204/22510248/4bddb210-e8a2-11e6-97b8-e34c5f1c3486.jpg)
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Language](https://img.shields.io/badge/language-swift%203%20%7C%20objc-green.svg)]()
