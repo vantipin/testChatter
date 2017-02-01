@@ -19,7 +19,6 @@ Chatter is a reference application created to showcase [Oxford Dictionary API us
 You can download app from [Appstore](https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8)
 
 ## Installation
----
 
 #### CocoaPods
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
@@ -48,13 +47,11 @@ Keys need to be placed in `DGTCoreNetworkConstants.h`
 ```
 
 ## Usage
----
 - Game "Guess a word". Choose category by tapping corresponding button. Read the definition and try to guess the word. Type the answer. 
 - Switch mode.
 - Translation. Choose language. Type the word.
 
 ## Project structure
----
 - Actions. Chatbot behaviour controlled via Actions.
 - Categories. Extensions of standard classes.
 - Network. Conversation with API done via Network Manager library. It's a powerful interface designed to control life cycle of multiple instances of NSURLSessionDataTask. You can start exploring it from `DGTNetworkManager`.
