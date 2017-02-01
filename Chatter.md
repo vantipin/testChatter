@@ -19,7 +19,7 @@ Chatter is a reference application created to showcase [Oxford Dictionary API us
 - CocoaPods 1.2.0+
 
 ## Try it now
-You can download app from [Appstore].(https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8)
+You can download app from [App Store](https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8).
 
 ## Installation
 
@@ -35,7 +35,7 @@ Pull repository. Change directory to `/Chatter`. You'll need to run
 $ cd ./Chatter
 $ pod update
 ```
-Pods will generate `Chatter.xcworkspace`. Run it with xcode.
+Pods will generate `Chatter.xcworkspace`. Run it with Xcode.
 
 
 #### API keys Authentication
