@@ -1,4 +1,7 @@
 # Chatter
+
+![Chatter](https://cloud.githubusercontent.com/assets/16136204/22510247/4bb6c1be-e8a2-11e6-86cb-7fb97278f5cb.jpg)
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Language](https://img.shields.io/badge/language-objc-green.svg)]()
