@@ -19,7 +19,6 @@ Wordfinder is a reference application created to showcase [Oxford Dictionary API
 You can download app from  [Appstore](https://itunes.apple.com/us/app/wordfinder-your-personal-crossword/id1199800362?ls=1&mt=8)
 
 ## Installation
----
 #### API keys Authentication
 To run project you'll need to get your own copy of [Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation/getting_started) keys. 
 [Register](https://developer.oxforddictionaries.com/?tag=#plans) an account and go to [API Credentials](https://developer.oxforddictionaries.com/admin/applications) to get app_id and app_key. Alternatively you can find your API keys in [Swagger interface](https://developer.oxforddictionaries.com/documentation) after you login in your account.
@@ -31,7 +30,6 @@ Keys need to be placed in `DGTRequestFactory.m`
 ```
 
 ## Usage
----
 Find word that match search parameters. 
 - Type in first letter.
 - Type in any other letter. [optional]
@@ -41,7 +39,6 @@ Find word that match search parameters.
 - View/copy results.
 
 ## Project comments
----
 - Network. Conversation with API done via Network Manager library. It's a powerful interface designed to control life cycle of multiple instances of NSURLSessionDataTask. You can start exploring it from `DGTNetworkManager`.
 
 
