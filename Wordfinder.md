@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Language](https://img.shields.io/badge/language-swift%203%20%7C%20objc-green.svg)]()
 
-Wordfinder is a reference application created to showcase usage of [Oxford Dictionary API](https://developer.oxforddictionaries.com).
+Wordfinder is a reference application created by [Digiteum](http://www.digiteum.com/) to showcase usage of [Oxford Dictionary API](https://developer.oxforddictionaries.com).
 
 - [x] Client-side application
 - [x] Restful architecture
