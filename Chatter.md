@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Language](https://img.shields.io/badge/language-objc-green.svg)]()
 
-Chatter is a reference application created to showcase [Oxford Dictionary API usage](https://developer.oxforddictionaries.com).
+Chatter is a reference application created by [Digiteum](http://www.digiteum.com/) to showcase [Oxford Dictionary API usage](https://developer.oxforddictionaries.com).
 
 - [x] Client-side application
 - [x] Restful architecture
