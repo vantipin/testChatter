@@ -15,7 +15,7 @@ Chatter is a reference application created by [Digiteum](http://www.digiteum.com
 ## Requirements
 
 - iOS Deployment Target 9.3+
-- Xcode 8.2+
+- XCode 8.2+
 - CocoaPods 1.2.0+
 
 ## Try it now
@@ -35,7 +35,7 @@ Pull repository. Change directory to `/Chatter`. You'll need to run
 $ cd ./Chatter
 $ pod update
 ```
-Pods will generate `Chatter.xcworkspace`. Run it with Xcode.
+Pods will generate `Chatter.xcworkspace`. Run it with XCode.
 
 
 #### API keys Authentication
