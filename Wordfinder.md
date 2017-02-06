@@ -15,7 +15,7 @@ Wordfinder is a reference application created by [Digiteum](http://www.digiteum.
 ## Requirements
 
 - iOS Deployment Target 9.3+
-- Xcode 8.2+
+- XCode 8.2+
 - Swift 3.0.2
 
 ## Try it now
@@ -47,4 +47,4 @@ Find word that match search parameters.
 
 ## License
 
-Fordfinder uses the MIT license. Please file an issue if you have any questions or if you'd like to share how you're using this project.
+Wordfinder uses the MIT license. Please file an issue if you have any questions or if you'd like to share how you're using this project.
