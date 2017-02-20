@@ -1,12 +1,12 @@
 # Chatter
 
-![Chatter](https://cloud.githubusercontent.com/assets/16136204/22510247/4bb6c1be-e8a2-11e6-86cb-7fb97278f5cb.jpg)
+![Chatter](https://cloud.githubusercontent.com/assets/16136204/22782616/ffde9ba8-eed8-11e6-9615-62627132ab2f.jpg)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
 [![Language](https://img.shields.io/badge/language-objc-green.svg)]()
 
-Chatter is a reference application created by [Digiteum](http://www.digiteum.com/) to showcase [Oxford Dictionary API usage](https://developer.oxforddictionaries.com).
+Chatter is a reference application created by [Digiteum](http://www.digiteum.com/) to showcase usage of [Oxford Dictionary API](https://developer.oxforddictionaries.com).
 
 - [x] Client-side application
 - [x] Restful architecture
@@ -20,6 +20,8 @@ Chatter is a reference application created by [Digiteum](http://www.digiteum.com
 
 ## Try it now
 You can download app from [App Store](https://itunes.apple.com/us/app/chatter-learn-language-oxford/id1199793820?ls=1&mt=8).
+
+![Chatter](https://cloud.githubusercontent.com/assets/16136204/22782639/15b8d902-eed9-11e6-8932-287cdb5db093.gif)
 
 ## Installation
 
@@ -37,6 +39,13 @@ $ pod update
 ```
 Pods will generate `Chatter.xcworkspace`. Run it with XCode.
 
+#### Troubleshooting pods
+
+If you try to run the project and get this error
+```bash
+ld: library not found for -lPods-Chatter
+```
+Try `Edit Scheme` and build Pods project first.
 
 #### API keys Authentication
 To run project you'll need to get your own copy of [Oxford Dictionary API](https://developer.oxforddictionaries.com/documentation/getting_started) keys. 
