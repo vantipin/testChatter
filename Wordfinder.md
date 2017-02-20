@@ -1,6 +1,6 @@
 # Wordfinder
 
-![Wordfinder](https://cloud.githubusercontent.com/assets/16136204/22510248/4bddb210-e8a2-11e6-97b8-e34c5f1c3486.jpg)
+![Wordfinder](https://cloud.githubusercontent.com/assets/16136204/22782513/79078ef0-eed8-11e6-8108-d695bda9765a.jpg)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)]()
@@ -19,7 +19,10 @@ Wordfinder is a reference application created by [Digiteum](http://www.digiteum.
 - Swift 3.0.2
 
 ## Try it now
-You can download app from  [Appstore](https://itunes.apple.com/us/app/wordfinder-your-personal-crossword/id1199800362?ls=1&mt=8)
+
+You can download app from  [App Store](https://itunes.apple.com/us/app/wordfinder-your-personal-crossword/id1199800362?ls=1&mt=8)
+
+![Wordfinder](https://cloud.githubusercontent.com/assets/16136204/22782512/79050acc-eed8-11e6-9f40-3d39e8c07390.gif)
 
 ## Installation
 #### API keys Authentication
